@@ -1,0 +1,2 @@
+int attackbonus;
+int magicbonus;
